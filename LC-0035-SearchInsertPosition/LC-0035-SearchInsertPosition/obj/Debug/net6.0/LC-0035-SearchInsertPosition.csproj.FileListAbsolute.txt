@@ -1,0 +1,14 @@
+J:\Files\Working\Repos\LeetCode\lc-0035-search-insert-position-cs\LC-0035-SearchInsertPosition\LC-0035-SearchInsertPosition\bin\Debug\net6.0\LC-0035-SearchInsertPosition.exe
+J:\Files\Working\Repos\LeetCode\lc-0035-search-insert-position-cs\LC-0035-SearchInsertPosition\LC-0035-SearchInsertPosition\bin\Debug\net6.0\LC-0035-SearchInsertPosition.deps.json
+J:\Files\Working\Repos\LeetCode\lc-0035-search-insert-position-cs\LC-0035-SearchInsertPosition\LC-0035-SearchInsertPosition\bin\Debug\net6.0\LC-0035-SearchInsertPosition.runtimeconfig.json
+J:\Files\Working\Repos\LeetCode\lc-0035-search-insert-position-cs\LC-0035-SearchInsertPosition\LC-0035-SearchInsertPosition\bin\Debug\net6.0\LC-0035-SearchInsertPosition.dll
+J:\Files\Working\Repos\LeetCode\lc-0035-search-insert-position-cs\LC-0035-SearchInsertPosition\LC-0035-SearchInsertPosition\bin\Debug\net6.0\LC-0035-SearchInsertPosition.pdb
+J:\Files\Working\Repos\LeetCode\lc-0035-search-insert-position-cs\LC-0035-SearchInsertPosition\LC-0035-SearchInsertPosition\obj\Debug\net6.0\LC-0035-SearchInsertPosition.GeneratedMSBuildEditorConfig.editorconfig
+J:\Files\Working\Repos\LeetCode\lc-0035-search-insert-position-cs\LC-0035-SearchInsertPosition\LC-0035-SearchInsertPosition\obj\Debug\net6.0\LC-0035-SearchInsertPosition.AssemblyInfoInputs.cache
+J:\Files\Working\Repos\LeetCode\lc-0035-search-insert-position-cs\LC-0035-SearchInsertPosition\LC-0035-SearchInsertPosition\obj\Debug\net6.0\LC-0035-SearchInsertPosition.AssemblyInfo.cs
+J:\Files\Working\Repos\LeetCode\lc-0035-search-insert-position-cs\LC-0035-SearchInsertPosition\LC-0035-SearchInsertPosition\obj\Debug\net6.0\LC-0035-SearchInsertPosition.csproj.CoreCompileInputs.cache
+J:\Files\Working\Repos\LeetCode\lc-0035-search-insert-position-cs\LC-0035-SearchInsertPosition\LC-0035-SearchInsertPosition\obj\Debug\net6.0\LC-0035-SearchInsertPosition.dll
+J:\Files\Working\Repos\LeetCode\lc-0035-search-insert-position-cs\LC-0035-SearchInsertPosition\LC-0035-SearchInsertPosition\obj\Debug\net6.0\refint\LC-0035-SearchInsertPosition.dll
+J:\Files\Working\Repos\LeetCode\lc-0035-search-insert-position-cs\LC-0035-SearchInsertPosition\LC-0035-SearchInsertPosition\obj\Debug\net6.0\LC-0035-SearchInsertPosition.pdb
+J:\Files\Working\Repos\LeetCode\lc-0035-search-insert-position-cs\LC-0035-SearchInsertPosition\LC-0035-SearchInsertPosition\obj\Debug\net6.0\LC-0035-SearchInsertPosition.genruntimeconfig.cache
+J:\Files\Working\Repos\LeetCode\lc-0035-search-insert-position-cs\LC-0035-SearchInsertPosition\LC-0035-SearchInsertPosition\obj\Debug\net6.0\ref\LC-0035-SearchInsertPosition.dll
